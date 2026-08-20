@@ -1,6 +1,6 @@
 ---
 name: unslop-commit
-description: Write or clean up a concise, specific Conventional Commit message without AI or marketing filler. Use only when explicitly invoked.
+description: Invoke when the user asks to write or clean up a commit message.
 ---
 
 # Unslop Commit
@@ -16,4 +16,3 @@ Produce a paste-ready commit message from the supplied context or repository dif
 - Never invent motivation, issue numbers, or breaking-change details. Inspect the relevant diff when available.
 - Return only the commit message in one fenced block.
 - Do not stage, commit, amend, or push unless the user separately asks for that action.
-

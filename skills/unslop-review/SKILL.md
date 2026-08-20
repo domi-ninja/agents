@@ -1,6 +1,6 @@
 ---
 name: unslop-review
-description: Write or clean up direct, specific, and actionable code-review comments without corporate politeness filler. Use only when explicitly invoked.
+description: Invoke when the user asks to write or clean up code-review comments.
 ---
 
 # Unslop Review
@@ -21,4 +21,3 @@ Preferred shape:
 ```text
 path/to/file.ts:L42: bug: `findUser` can return undefined. Guard before reading `user.email` or return 404.
 ```
-

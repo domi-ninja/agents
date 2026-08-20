@@ -1,6 +1,6 @@
 ---
 name: unslop-reasoning
-description: Clean up a user-supplied visible reasoning trace by removing robotic meta-commentary while retaining the actual evidence and decisions. Use only when explicitly invoked.
+description: Invoke when the user asks to clean up a visible reasoning trace, design note, or decision log they supplied.
 ---
 
 # Unslop Reasoning
@@ -16,4 +16,3 @@ Rewrite only reasoning text the user supplied or explicitly asked to make presen
 - Return the cleaned trace, not a critique of its writing, unless the user asks for analysis.
 
 This skill applies to visible reasoning artifacts, design notes, and decision logs. It does not change ordinary final-answer style; use `$unslop-lite` for that.
-

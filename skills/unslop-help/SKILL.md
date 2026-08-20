@@ -1,6 +1,6 @@
 ---
 name: unslop-help
-description: Show a compact reference for the installed unslop-lite skills and invocation syntax. Use only when explicitly invoked.
+description: Invoke when the user asks for help with the installed unslop skills or their syntax.
 ---
 
 # Unslop Help
@@ -19,5 +19,4 @@ Return this compact reference without activating or changing any skill:
 | `$unslop-reasoning` | Clean up a user-supplied visible reasoning trace. |
 | `$unslop-help` | Show this reference. |
 
-The companion skills are explicit-only. This help skill is one-shot and must not persist state or modify files.
-
+This help skill is one-shot and must not persist state or modify files.

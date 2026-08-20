@@ -1,6 +1,6 @@
 ---
 name: unslop-file
-description: Rewrite prose in a requested text or Markdown file while preserving technical content and document structure. Use only when explicitly invoked.
+description: Invoke when the user asks to rewrite prose in a text or Markdown file.
 ---
 
 # Unslop File
@@ -22,4 +22,3 @@ Edit the requested prose file in place using the `unslop-lite` writing rules.
 Operate only on natural-language files such as `.md`, `.txt`, `.markdown`, `.rst`, or extensionless prose. Refuse secrets, credentials, key files, and files that are primarily source code or structured data. If prose and code are mixed, edit only the prose regions.
 
 Do not create backup files when Git already makes the change recoverable. Do not rewrite multiple files unless the invocation identifies them.
-

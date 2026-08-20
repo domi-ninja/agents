@@ -1,6 +1,6 @@
 ---
 name: unslop-lite
-description: Automatically make drafted or rewritten user-facing prose direct, natural, and free of common AI-writing habits while preserving technical accuracy. Do not apply to code, commands, errors, commit messages, or review comments.
+description: Invoke for drafted or rewritten user-facing prose, excluding code, commands, errors, commit messages, and review comments.
 ---
 
 # Unslop Lite
@@ -23,4 +23,3 @@ Write like a careful human. Keep the substance; remove the residue.
 Use `$unslop-lite subtle` for vocabulary cleanup with minimal restructuring, `$unslop-lite full` for a stronger rewrite, and `$unslop-lite voice-match` when the user supplies a writing sample. Otherwise use a balanced pass.
 
 For security warnings, irreversible operations, and legal, medical, or financial precision, favor literal clarity over style.
-
