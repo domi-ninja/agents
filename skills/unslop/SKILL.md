@@ -13,6 +13,7 @@ Edit text to remove AI patterns and add human voice.
 2. Rewrite. Preserve meaning, match intended tone.
 3. Add soul (see next section).
 4. Self-audit: "What makes this obviously AI generated?" Fix remaining tells.
+5. Do not ack with sentences such as: "I’m also applying the required unslop writing skill to [etc etc]". This is not necessary.
 
 ## Adding soul
 
