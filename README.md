@@ -1,4 +1,4 @@
-So it turns out adding some global skills, especially this unslop one, is well worth it. Especially when using Sol.  
+So it turns out adding some global skills, most `unslop` and `grill`, is well worth it. Especially when using Sol.  
 `AGENTS.md` needs to be copied into ~/.codex/, but im including it here anyway.
 
 This will be out of date in 3 Months, but in the meantime
