@@ -1,0 +1,6 @@
+interface:
+  display_name: "Vercel Web Interface Guidelines"
+  short_description: "Use when building, fixing, or reviewing web UI"
+  default_prompt: "Use $vercel-web-interface-guidelines to check this web UI for accessibility, interaction, responsive layout, and performance issues."
+policy:
+  allow_implicit_invocation: true
