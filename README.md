@@ -1,4 +1,4 @@
-# ai stuff
+# .agents
 
 So it turns out adding some global skills, most notably `unslop` and `grill`, is well worth it. Especially when using Sol.  
 `AGENTS.md` needs to be copied into ~/.codex/, but im including it here anyway.
